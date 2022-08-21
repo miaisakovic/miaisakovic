@@ -1,4 +1,4 @@
-<img align="right" width="444" height="333" style="border-radius:50%"
+<img align="right" width="400" height="300" style="border-radius:50%"
      src="https://cdn.dribbble.com/users/3641614/screenshots/10082340/media/f8e055ffcb705cd65ba6e978d580eb48.gif">
 
 ### Hi, I'm Mia!
