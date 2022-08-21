@@ -1,5 +1,4 @@
-<img align="right" width="400" height="300" style="border-radius:50%"
-     src="https://cdn.dribbble.com/users/3641614/screenshots/10082340/media/f8e055ffcb705cd65ba6e978d580eb48.gif">
+<img align="right" width="400" height="300" src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
 
 # Hi, I'm Mia!
 
@@ -34,9 +33,7 @@
 </p>
 
 <!--
-**miaisakovic/miaisakovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
