@@ -4,7 +4,7 @@
 
 > Second-year Mathematics student at the University of Waterloo 
 
-- 💻 Previously a Software QC/QA Engineering Intern at Interaptix AR
+- 💻 Previously a Software QC/QA Engineering Intern at Interaptix Augmented Reality
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: [Email](mailto:mia.isakovic@uwaterloo.ca)&nbsp;
 |&nbsp;
