@@ -4,22 +4,22 @@
 
 > Second-year Mathematics student at the University of Waterloo 
 
-- 💻 Previously a Software QC/QA Engineering Intern at Interaptix Augmented Reality
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: [Email](mailto:mia.isakovic@uwaterloo.ca)&nbsp;
-|&nbsp;
-[LinkedIn](https://www.linkedin.com/in/miaisakovic/)
+- 💻 I’m a Software Development Intern at BlackBerry
+- 🌱 I’m currently learning full-stack web development 
+- 📫 How to reach me: [Email](mailto:mia.isakovic@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/miaisakovic/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
