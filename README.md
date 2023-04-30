@@ -4,7 +4,7 @@
 
 > Second-year Mathematics student at the University of Waterloo 
 
-- 💻 I’m a Software Development Intern at BlackBerry
+- 💻 Previous Software Development Intern at BlackBerry
 - 🌱 I’m currently learning full-stack web development 
 - 📫 How to reach me: [Email](mailto:mia.isakovic@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/miaisakovic/)
 
@@ -13,7 +13,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
