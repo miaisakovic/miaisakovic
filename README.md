@@ -4,11 +4,11 @@
 
 > Third-year Mathematics student at the University of Waterloo 
 
-- 💻 Previous Software Development Intern at Brock Solutions <br>
-  and BlackBerry
+- 💻 Previous Software Development Intern at Brock Solutions, BlackBerry, and Interaptix AR
 - 🌱 Currently learning computer vision
 - 📫 How to reach me: [Email](mailto:mia.isakovic@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/miaisakovic/)
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -41,7 +41,6 @@
   </a>  
 </p>
 
-<!--
 Some ideas:
 
 - 🔭 I’m currently working on ...
