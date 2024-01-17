@@ -1,4 +1,4 @@
-<img align="right" width="350" height="250" src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
+<img align="right" width="360" height="260" src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
 
 # Hi, I'm Mia!
 
