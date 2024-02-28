@@ -1,5 +1,5 @@
 # Hi, I'm Mia!
-<img align="right" width="300"  src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
+<img align="right" width="340"  src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
 
 > Third-year Mathematics student at the University of Waterloo 
 
