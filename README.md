@@ -1,11 +1,11 @@
-<img align="right" width="360"  src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
+# Hi, I'm Mia!
 
-### Hi, I'm Mia!
+<img align="right" width="330"  src="https://github.com/miaisakovic/miaisakovic/blob/main/computer.gif"/>
 
 > Third-year Mathematics student at the University of Waterloo 
 
 - 💻 Previous Software Development Intern at Brock Solutions,<br />
-  BlackBerry, and Interaptix AR
+  BlackBerry, and Interaptix Augmented Reality
 - 🌱 Currently learning computer vision
 - 📫 How to reach me: [Email](mailto:mia.isakovic@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/miaisakovic/)
 
