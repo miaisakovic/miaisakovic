@@ -7,10 +7,10 @@
   </ul>
 </div>
 
-> Third-year Mathematics student at the University of Waterloo
+> Honours Mathematics student at the University of Waterloo
 
-- 💻 Previous Software Development Intern at [Netsweeper](https://www.netsweeper.com/),<br />
-  [Brock Solutions](https://www.brocksolutions.com/), and [BlackBerry](https://www.blackberry.com/us/en)
+- 💻 Previous Software Engineering Intern at [Magnet Forensics](https://www.magnetforensics.com/), <br />
+  [Netsweeper](https://www.netsweeper.com/), [Brock Solutions](https://www.brocksolutions.com/), and [BlackBerry](https://www.blackberry.com/us/en)
 - 📚 Majoring in Combinatorics and Optimization
 - 👋 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miaisakovic/)
 
